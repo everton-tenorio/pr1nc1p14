@@ -1,6 +1,7 @@
+!
 ! Title: Blocked Log - Hosts (DNS)
 ! Description: Hosts de rastreadores/anuncios bloqueados no meu navegador
-! Last modified: 2026-11-01T23:18:58.606Z
+! Last modified: 2026-11-01T23:19:08.764Z
 !
 ||ad.gt^
 ||adnami.io^
@@ -13,6 +14,7 @@
 ||demdex.net^
 ||fundingchoicesmessages.google.com^
 ||g.doubleclick.net^
+||gumgum.com^
 ||horizon-track.globo.com^
 ||horizon.globo.com^
 ||imasdk.googleapis.com^
