@@ -1,7 +1,7 @@
 !
 ! Title: Blocked Log - Hosts (DNS)
 ! Description: Hosts de rastreadores/anuncios bloqueados no meu navegador
-! Last modified: 2026-11-01T23:19:08.764Z
+! Last modified: 2026-11-01T23:29:29.416Z
 !
 ||ad.gt^
 ||adnami.io^
@@ -27,4 +27,5 @@
 ||tm.jsuol.com.br^
 ||trackid.globoid.globo.com^
 ||trkn.us^
+||tsyndicate.com^
 ||youborafds01.com^
