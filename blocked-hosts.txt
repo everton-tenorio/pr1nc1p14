@@ -1,0 +1,11 @@
+! Title: Blocked Log - Hosts (DNS)
+! Description: Hosts de rastreadores/anuncios bloqueados no meu navegador
+! Last modified: 2026-11-01T21:57:42.241Z
+
+||adnami.io^
+||cdn.debugbear.com^
+||horizon-track.globo.com^
+||horizon.globo.com^
+||imasdk.googleapis.com^
+||pub.dv.tech^
+||trackid.globoid.globo.com^
