@@ -1,7 +1,7 @@
 !
 ! Title: Blocked Log - Hosts (DNS)
 ! Description: Hosts de rastreadores/anuncios bloqueados no meu navegador
-! Last modified: 2026-11-01T23:29:29.416Z
+! Last modified: 2026-11-01T23:32:43.573Z
 !
 ||ad.gt^
 ||adnami.io^
@@ -10,6 +10,7 @@
 ||cdn.debugbear.com^
 ||chartbeat.com^
 ||clarity.ms^
+||cleverwebserver.com^
 ||collector-pxdojv695v.protechts.net^
 ||demdex.net^
 ||fundingchoicesmessages.google.com^
@@ -18,10 +19,13 @@
 ||horizon-track.globo.com^
 ||horizon.globo.com^
 ||imasdk.googleapis.com^
+||nobeta.com.br^
 ||permutive.app^
+||premiumads.com.br^
 ||pub.dv.tech^
 ||scorecardresearch.com^
 ||sdk.mrf.io^
+||socket.streamable.com^
 ||static.cloudflareinsights.com^
 ||stats.video.globo.com^
 ||tm.jsuol.com.br^
