@@ -1,9 +1,11 @@
 ! Title: Blocked Log - Hosts (DNS)
 ! Description: Hosts de rastreadores/anuncios bloqueados no meu navegador
-! Last modified: 2026-11-01T23:09:27.852Z
+! Last modified: 2026-11-01T23:18:58.606Z
 !
+||ad.gt^
 ||adnami.io^
 ||adtrafficquality.google^
+||beacon.wikia-services.com^
 ||cdn.debugbear.com^
 ||chartbeat.com^
 ||clarity.ms^
