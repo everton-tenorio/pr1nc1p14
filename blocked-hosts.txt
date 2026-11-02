@@ -1,5 +1,46 @@
 !
 ! Title: Blocked Log - Hosts (DNS)
 ! Description: Hosts de rastreadores/anuncios bloqueados no meu navegador
-! Last modified: 2026-11-02T13:30:39.211Z
+! Last modified: 2026-11-01T23:40:30.934Z
 !
+||ad.gt^
+||adnami.io^
+||adsafeprotected.com^
+||adtrafficquality.google^
+||beacon.wikia-services.com^
+||cdn.debugbear.com^
+||chartbeat.com^
+||clarity.ms^
+||cleverwebserver.com^
+||collector-pxdojv695v.protechts.net^
+||conde.digital^
+||config-factory.com^
+||demdex.net^
+||fundingchoicesmessages.google.com^
+||g.doubleclick.net^
+||gumgum.com^
+||horizon-track.globo.com^
+||horizon.globo.com^
+||html-load.cc^
+||imasdk.googleapis.com^
+||infinityid.condenastdigital.com^
+||jwpltx.com^
+||nobeta.com.br^
+||onelinksmartscript.appsflyer.com^
+||permutive.app^
+||planebasin.com^
+||premiumads.com.br^
+||pub.dv.tech^
+||sail-horizon.com^
+||scorecardresearch.com^
+||sdk.mrf.io^
+||servenobid.com^
+||socket.streamable.com^
+||static.cloudflareinsights.com^
+||stats.video.globo.com^
+||stats.wp.com^
+||tm.jsuol.com.br^
+||trackid.globoid.globo.com^
+||trkn.us^
+||tsyndicate.com^
+||youborafds01.com^
